@@ -1,6 +1,6 @@
 # Introduction to Matlab
 
-This repo contains teaching material for incarnations of the 'Introduction to Matlab' at the Graduate Training Center of Neuroscience at the University of Tuebingen/International Max Planck Research School. It has been developed and used by Harald Hentschke 2002-2018. For an overview of topics, see abstract below or syllabus_mcourse.pdf.
+This repo contains teaching material for past incarnations of the 'Introduction to Matlab' course at the Graduate Training Center of Neuroscience, University of Tuebingen/International Max Planck Research School. It has been developed and used by Harald Hentschke 2002-2018. For an overview of topics, see abstract below or syllabus_mcourse.pdf.
 
 ![screenshot](illustrations.png)
 

@@ -11,6 +11,7 @@
 *.i16		binary
 *.i32		binary
 *.f32		binary
+*.zip 		binary
 
 # Make GitHub understand that this is Matlab
 *.m linguist-language=Matlab
